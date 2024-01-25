@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on analytical and statistical skills.
 
-- 🌱 I’m currently learning **Python , Dsa,Machine learning, web development , data science **
+- 🌱 I’m currently learning **Python** , **Dsa,Machine learning**, **web development** , **data science**
 
 - 👯 I’m looking to collaborate on **Open Source Communities**
 

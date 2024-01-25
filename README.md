@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on 
 
-- 🌱 I’m currently learning **C++, Dsa, DevOps Tools**
+- 🌱 I’m currently learning **Python , Dsa,Macgine learning, web development , data science **
 
 - 👯 I’m looking to collaborate on **Open Source Communities**
 

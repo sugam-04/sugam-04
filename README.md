@@ -1,13 +1,13 @@
 <h1 align="center">Hi :wave:, I'm Sugam Pandey</h1>
-<h3 align="center">A passionate Web developer as weel as machine learning enthusiast from India</h3>
+<h3 align="center">A passionate Web developer as well as machine learning and data science  enthusiast from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sugam-04&label=Profile%20views&color=0e75b6&style=flat" alt="sugam-04" /> </p>
 
 
 
-- 🔭 I’m currently working on 
+- 🔭 I’m currently working on analytical and statistical skills.
 
-- 🌱 I’m currently learning **Python , Dsa,Macgine learning, web development , data science **
+- 🌱 I’m currently learning **Python , Dsa,Mahgine learning, web development , data science **
 
 - 👯 I’m looking to collaborate on **Open Source Communities**
 

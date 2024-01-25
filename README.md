@@ -1,16 +1,80 @@
-# github-profile-summary-cards-example
+<h1 align="center">Hi :wave:, I'm Sugam Pandey</h1>
+<h3 align="center">A passionate Web developer as weel as machine learning enthusiast from India</h3>
 
-:star: [Tutorial](https://github.com/vn7n24fzkq/github-profile-summary-cards/wiki/Toturial) ( Recommendation ) :star:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=akash6222&label=Profile%20views&color=0e75b6&style=flat" alt="sugam-04" /> </p>
 
-Action already setup In this template, you just need click `use this template` button to create your repo and wait for workflow to finish.
 
-```To create your profile README you need to name the repo as your username```
 
-| :bell: | Don't forget to modify the image (All of images are in `profile-summary-card-output` folder). |
-| :-------: | :-------------------------------------------------------------------------------------------------------- |
+- 🔭 I’m currently working on [TCET Linux](https://github.com/tcet-opensource/tcet-linux)
 
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+- 🌱 I’m currently learning **C++, Dsa, DevOps Tools**
 
-[More Info](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+- 👯 I’m looking to collaborate on **Open Source Communities**
+
+- 👨‍💻 All of my projects are available at [https://github.com/sugam-04?tab=repositories](https://github.com/sugam-04?tab=repositories)
+
+- 💬 Ask me about **Linux**
+
+- 📫 How to reach me **pandeysugam04@gmail.com**
+
+<h3 align="left">Languages and Tools:</h3>
+
+### 📋 Languages
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+### ☁️ Hosting/SaaS
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+### 💾 Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🎛️ Operating System
+![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
+![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
+![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
+![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Pop!\_OS](https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white)
+
+### 🧑‍💻 Developer/Forums
+![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white) 
+![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white) 
+![LeetCode](https://img.shields.io/badge/Leetcode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
+
+
+
+
+## 📊 Github Stats (Expand to View)
+
+<details> 
+  <summary><b>💻 GitHub Profile Stats</b></summary>
+  <p align="center">
+    <a><img alt="Gihub Profile Stats" src="https://github-readme-stats.vercel.app/api?username=sugam-04&show_icons=true&theme=radical" alt="sugam-04" height="192px"/></a>
+	</p>
+  </p>
+</details>
+<details>
+  <summary><b>🔥 GitHub Streak</b></summary>
+  <p align="center">
+   <a><img alt="Gihub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sugam-04&theme=radical" /></a>
+
+</details>
+<details>
+  <summary><b>⚡ Recent GitHub Activity</b></summary>
+ <p align="center">
+   <a><img alt="Contribution Graph" src="https://raw.githubusercontent.com/sugam-04/sugam-04/master/profile-summary-card-output/2077/0-profile-details.svg" /></a>
+   <!--<a><img alt="Valeri Gokadze's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=sugam-04&custom_title=Sugam%20Pandey's%20Activity%20Graph&theme=react-dark" /></a>
+</details>
+-->
+
+### 💬 Social
+![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
+![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white) 
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+
+---

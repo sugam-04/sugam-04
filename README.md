@@ -1,7 +1,7 @@
 <h1 align="center">Hi :wave:, I'm Sugam Pandey</h1>
 <h3 align="center">A passionate Web developer as weel as machine learning enthusiast from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akash6222&label=Profile%20views&color=0e75b6&style=flat" alt="sugam-04" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sugam-04&label=Profile%20views&color=0e75b6&style=flat" alt="sugam-04" /> </p>
 
 
 

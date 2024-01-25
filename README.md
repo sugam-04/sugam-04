@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on analytical and statistical skills.
 
-- 🌱 I’m currently learning **Python , Dsa,Mahgine learning, web development , data science **
+- 🌱 I’m currently learning **Python , Dsa,Machine learning, web development , data science **
 
 - 👯 I’m looking to collaborate on **Open Source Communities**
 
@@ -22,9 +22,6 @@
 ### 📋 Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-### ☁️ Hosting/SaaS
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 ### 💾 Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
